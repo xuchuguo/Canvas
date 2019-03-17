@@ -1,6 +1,5 @@
 # 预览地址
-
-
+https://xuchuguo.github.io/Canvas/
 ## 项目介绍
 1. 支持移动端操作
 2. 使用 Canvas API
